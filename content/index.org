@@ -1,9 +1,8 @@
 #+title: Org Mode Example Site
-###+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+Title:  Example file
 #+Author: Ireina
 #+Date:   <2021-02-17 Wed>
-#+SETUPFILE: https://ireina7.github.io/org-to-html-themes/org/theme-blog.setup
 #+BEGIN_EXPORT html
  <img src="../img/chiny.png" style="width: 65%;" alt="The end of the world">
 #+END_EXPORT
