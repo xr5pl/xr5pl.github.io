@@ -1,10 +1,10 @@
 #+title: Org Mode Example Site
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+Title:  Example file
-#+Author: Ireina
-#+Date:   <2021-02-17 Wed>
+#+Author: Artur Dyl
+#+Date:   <2021-10-17 So>
 #+BEGIN_EXPORT html
- <img src="./img/chiny.png" style="width: 65%;" alt="The end of the world">
+ <img src="../img/chiny.png" style="width: 65%;" alt="The end of the world">
 #+END_EXPORT
 
 * Klawiszologia
