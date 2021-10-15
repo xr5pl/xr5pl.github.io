@@ -4,7 +4,7 @@
 #+Author: Artur Dyl
 #+Date:   <2021-10-17 So>
 #+BEGIN_EXPORT html
- <img src="../img/chiny.png" style="width: 65%;" alt="The end of the world">
+ <img src="./img/chiny.png" style="width: 65%;" alt="The end of the world">
 #+END_EXPORT
 
 * Klawiszologia
