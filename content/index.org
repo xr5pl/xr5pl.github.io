@@ -6,7 +6,6 @@
 #+BEGIN_EXPORT html
  <img src="../img/chiny.png" style="width: 65%;" alt="The end of the world">
 #+END_EXPORT
-#+SETUPFILE: https://ireina7.github.io/org-to-html-themes/org/theme-blog.setup
 
 * Klawiszologia
 
