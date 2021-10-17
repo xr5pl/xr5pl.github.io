@@ -3,9 +3,6 @@
 #+Title:  Example file
 #+Author: Artur Dyl
 #+Date:   <2021-10-17 So>
-#+BEGIN_EXPORT html
- <img src="img/chiny.png" style="width: 65%;" alt="The end of the world">
-#+END_EXPORT
 
 * Klawiszologia
 
@@ -46,7 +43,10 @@
 
 * Links
 
-- [[https://systemcrafters.net][System Crafters Official Site]]
-- [[https://youtube.com/SystemCrafters][System Crafters on YouTube]]
-- [[https://twitch.com/SystemCrafters][System Crafters on Twitch]]
-- [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]
+|   |   |   |   |   |   |
+|---+---+---+---+---+---|
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
+|   |   |   |   |   |   |
