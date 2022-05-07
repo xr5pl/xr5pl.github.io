@@ -1,8 +1,8 @@
-#+title: Doom emacs klawiszologia
+#+title: Doom Emacs Klawiszologia
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+Title:  Klawiszologia
-#+Author: Artur Dyl
-#+Date:   <2021-10-17 So>
+#+Author: xr5pl
+#+Date:   <2022-05-07 sob>
 
 * Klawiszologia
 
