@@ -1,6 +1,6 @@
-#+title: Doom emacs wwww
+#+title: Doom emacs klawiszologia
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
-#+Title:  Example file
+#+Title:  Klawiszologia
 #+Author: Artur Dyl
 #+Date:   <2021-10-17 So>
 
