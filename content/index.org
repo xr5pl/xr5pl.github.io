@@ -28,7 +28,11 @@
 | =shrink-window-if-larger-than-buffer= | ~C-x -~     | /Shrink the window vertically to buffer/           |
 | =balance-windows=                     | ~C-x +~     | /Balance the sizes of all windows/                 |
 |---------------------------------------+-------------+----------------------------------------------------|
+<<<<<<< HEAD
 | Linki                                 | Keys        | Opis                                               |
+=======
+| *Linki (zmienione)*                   | *Keys*      | *Opis*                                             |
+>>>>>>> ed3fb3f (* content/index.org:)
 |---------------------------------------+-------------+----------------------------------------------------|
 | =org-insert-link=                     | ~SPC m l l~ | /Dodawanie lików do tekstu./                       |
 |                                       |             |                                                    |
