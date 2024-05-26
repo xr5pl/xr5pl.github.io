@@ -33,7 +33,7 @@
 | =org-insert-link=                     | ~SPC m l l~ | /Dodawanie lików do tekstu./                       |
 |                                       |             |                                                    |
 |---------------------------------------+-------------+----------------------------------------------------|
-| Agenda/ToDo/Task/Journal              | Keys        | Opis                                               |
+| Agenda/ToDo/Task/Journal              | Keys        | *Opis*                                             |
 |---------------------------------------+-------------+----------------------------------------------------|
 | =journal.org=                         | ~SPC n n j~ | /Wpis do dziennika.          /                     |
 |                                       | ~SPC m t t~ | /Dopisujesz zadanie do TODO   /                    |
@@ -41,9 +41,9 @@
 | cykliczne wydarzenia                  | ~C-cxc~     | /wpisujesz ile ma być powtórzeń wydarzenia np. 3/  |
 |                                       |             | /i jaki interwał np. +1w/                          |
 |---------------------------------------+-------------+----------------------------------------------------|
-| Dired                                 |             |                                                    |
+| *Dired*                               | Keys        | *Opis*                                             |
 |---------------------------------------+-------------+----------------------------------------------------|
-| Dodaj nowy plik                       | ~Shift S ~  | /Dodaje nowy plik gdy jesteś w "Dired mode"        |
-|                                       | ~d~         | zaznaczasz do usunięcia.                           |
-|                                       | ~x~         | usuwasz.                                           |
+|  Dodaj nowy plik                      | ~Shift S ~  | /Dodaje nowy plik gdy jesteś w "Dired mode"/       |
+|                                       | ~d~         | /zaznaczasz do usunięcia.                   /      |
+|                                       | ~x~         | /usuwasz.                                   /      |
 * Links
