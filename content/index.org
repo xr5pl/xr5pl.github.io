@@ -43,7 +43,8 @@
 |---------------------------------------+-------------+----------------------------------------------------|
 | *Dired*                               | Keys        | *Opis*                                             |
 |---------------------------------------+-------------+----------------------------------------------------|
-|  Dodaj nowy plik                      | ~Shift S ~  | /Dodaje nowy plik gdy jesteś w "Dired mode"/       |
+| =dired-create-empty-file=             | ~brak~      | /nowy plik/                                        |
+| =dired-create-directory=              | ~+~         | /nowy katalog/                                     |
 |                                       | ~d~         | /zaznaczasz do usunięcia.                   /      |
 |                                       | ~x~         | /usuwasz.                                   /      |
 * Links
