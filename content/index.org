@@ -41,5 +41,9 @@
 | cykliczne wydarzenia                  | ~C-cxc~     | /wpisujesz ile ma być powtórzeń wydarzenia np. 3/  |
 |                                       |             | /i jaki interwał np. +1w/                          |
 |---------------------------------------+-------------+----------------------------------------------------|
-
-** Links
+| Dired                                 |             |                                                    |
+|---------------------------------------+-------------+----------------------------------------------------|
+| Dodaj nowy plik                       | ~Shift S ~  | /Dodaje nowy plik gdy jesteś w "Dired mode"        |
+|                                       | ~d~         | zaznaczasz do usunięcia.                           |
+|                                       | ~x~         | usuwasz.                                           |
+* Links
