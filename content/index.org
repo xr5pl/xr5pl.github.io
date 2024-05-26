@@ -43,7 +43,7 @@
 |---------------------------------------+-------------+----------------------------------------------------|
 | *Dired*                               | Keys        | *Opis*                                             |
 |---------------------------------------+-------------+----------------------------------------------------|
-| =dired-create-empty-file=             | ~brak~      | /nowy plik/                                        |
+| =dired-create-empty-file=             | ~SPC f f~   | /nowy plik/                                        |
 | =dired-create-directory=              | ~+~         | /nowy katalog/                                     |
 |                                       | ~d~         | /zaznaczasz do usunięcia.                   /      |
 |                                       | ~x~         | /usuwasz.                                   /      |
