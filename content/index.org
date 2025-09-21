@@ -48,7 +48,7 @@
 |                                       | ~d~         | /zaznaczasz do usunięcia.                   /      |
 |                                       | ~x~         | /usuwasz.                                   /      |
 |---------------------------------------+-------------+----------------------------------------------------|
-| Magit                                 | Keys        | *Opis*                                             |
+| *Magit*                               | Keys        | *Opis*                                             |
 |---------------------------------------+-------------+----------------------------------------------------|
 | =magit-status=                        | ~SPC g g~   | /sprawdza status/                                  |
 | =magit-clone=                         | ~SPC g C~   | /Clonowanie repozytorium/                          |
@@ -59,4 +59,28 @@
 |                                       | ~F r p~     | /pull rebase/                                      |
 |                                       | ~q~         | /wyjscie/                                          |
 |                                       |             |                                                    |
+* Magit – Klawiszologia (PL / DE)
+
+| Klawisz          | Opis (PL)                       | Beschreibung (DE)                     |
+|------------------+---------------------------------+---------------------------------------|
+| SPC g g          | Otwórz status repozytorium      | Repository-Status öffnen              |
+| q                | Wyjście z Magit                 | Magit schließen                       |
+|------------------+---------------------------------+---------------------------------------|
+| s                | Stage plik / fragment           | Datei / Abschnitt „stagen“            |
+| S                | Stage wszystkie pliki           | Alle Dateien „stagen“                 |
+| u                | Cofnij stage (unstage)          | Datei aus „Staging“ entfernen         |
+|------------------+---------------------------------+---------------------------------------|
+| c c              | Nowy commit                     | Neuen Commit erstellen                |
+| C-c C-c          | Zatwierdź commit                | Commit bestätigen                     |
+| c a              | Popraw ostatni commit (amend)   | Letzten Commit ändern (Amend)         |
+|------------------+---------------------------------+---------------------------------------|
+| P p              | Push                            | Push                                  |
+| P u              | Push + ustaw upstream           | Push + Upstream setzen                |
+| P - f p          | Force push (po amend)           | Force Push (nach Amend)               |
+|------------------+---------------------------------+---------------------------------------|
+| F p              | Pull                            | Pull                                  |
+| F r p            | Pull z rebase (zalecane)        | Pull mit Rebase (empfohlen)           |
+|------------------+---------------------------------+---------------------------------------|
+| TAB              | Rozwiń diff                     | Diff anzeigen / einklappen            |
+
 * Links
