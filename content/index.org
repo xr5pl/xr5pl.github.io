@@ -2,7 +2,7 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+Title:  Klawiszologia
 #+Author: xr5pl
-#+Date: # last updated: <>
+#+macro: lastupdate (eval (format-time-string "%Y-%m-%d %H:%M"))
 
 
 * Klawiszologia
@@ -84,3 +84,4 @@
 | TAB              | Rozwiń diff                     | Diff anzeigen / einklappen            |
 
 * Links
+*Informacja:* ostatnia aktualizacja: {{{lastupdate}}}
