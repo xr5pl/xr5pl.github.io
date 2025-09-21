@@ -53,4 +53,10 @@
 | =magit-status=                        | ~SPC g g~   | /sprawdza status/                                  |
 | =magit-clone=                         | ~SPC g C~   | /Clonowanie repozytorium/                          |
 | =magit-file-stage=                    | ~SPC g S~   | /Stage wszystkie pliki/                            |
+|                                       | ~c c~       | /commit/                                           |
+|                                       | ~C-c C-c~   | /zatwierdzasz commita/                             |
+|                                       | ~P p~       | /push/                                             |
+|                                       | ~F r p~     | /pull rebase/                                      |
+|                                       | ~q~         | /wyjscie/                                          |
+|                                       |             |                                                    |
 * Links
