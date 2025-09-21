@@ -47,4 +47,10 @@
 | =dired-create-directory=              | ~+~         | /nowy katalog/                                     |
 |                                       | ~d~         | /zaznaczasz do usunięcia.                   /      |
 |                                       | ~x~         | /usuwasz.                                   /      |
+|---------------------------------------+-------------+----------------------------------------------------|
+| Magit                                 | Keys        | *Opis*                                             |
+|---------------------------------------+-------------+----------------------------------------------------|
+| =magit-status=                        | ~SPC g g~   | /sprawdza status/                                  |
+| =magit-clone=                         | ~SPC g C~   | /Clonowanie repozytorium/                          |
+| =magit-file-stage=                    | ~SPC g S~   | /Stage wszystkie pliki/                            |
 * Links
