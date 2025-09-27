@@ -84,4 +84,4 @@
 | TAB              | Rozwiń diff                     | Diff anzeigen / einklappen            |
 
 * Links
-*Informacja:* ostatnia aktualizacja: {{{lastupdate}}}
+*Informacja:* aktualizacja: {{{lastupdate}}}
