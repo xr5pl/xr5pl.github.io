@@ -1,4 +1,4 @@
-#+title: Doom Emacs (Nauka Git-a)
+#+title: Doom Emacs/Git
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+Title:  Klawiszologia
 #+Author: xr5pl
